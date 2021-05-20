@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: 'AIzaSyCsPJOrSNfHDjHdtL1AgZ6ZR04Vf0hJMXI',
+  apiKey: process.env.REACT_APP_FIREBASE_APIKEY,
   authDomain: 'whatsapp-clone-706f6.firebaseapp.com',
   projectId: 'whatsapp-clone-706f6',
   storageBucket: 'whatsapp-clone-706f6.appspot.com',

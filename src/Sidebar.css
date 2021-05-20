@@ -57,3 +57,9 @@
   background-color: white;
   overflow: scroll;
 }
+
+@media screen and (max-width: 600px) {
+  .sidebar {
+    height: 20vh;
+  }
+}

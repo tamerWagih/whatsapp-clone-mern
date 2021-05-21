@@ -52,6 +52,11 @@
   outline: none;
 }
 
+a {
+  text-decoration: none !important;
+  color: black;
+}
+
 .sidebar__chats {
   flex: 1;
   background-color: white;

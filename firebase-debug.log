@@ -1,0 +1,22 @@
+[debug] [2021-05-21T03:00:01.140Z] ----------------------------------------------------------------------
+[debug] [2021-05-21T03:00:01.142Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\mrtam\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-21T03:00:01.142Z] CLI Version:   9.10.2
+[debug] [2021-05-21T03:00:01.142Z] Platform:      win32
+[debug] [2021-05-21T03:00:01.142Z] Node Version:  v14.16.1
+[debug] [2021-05-21T03:00:01.143Z] Time:          Fri May 21 2021 06:00:01 GMT+0300 (Arabian Standard Time)
+[debug] [2021-05-21T03:00:01.143Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-21T03:00:01.145Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-05-21T03:00:01.163Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-21T03:00:01.163Z] > authorizing via signed-in user (mrtamerwagih@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\mrtam\Desktop\whatsapp-clone
+
